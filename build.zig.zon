@@ -1,0 +1,7 @@
+.{
+    .name = .bfi,
+    .version = "0.1.0",
+    .fingerprint = 0xb3dbd381f55efc56,
+    .minimum_zig_version = "0.14.1",
+    .paths = .{ "build.zig", "build.zig.zon", "src", "LICENSE", "README.md" },
+}
